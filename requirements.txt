@@ -1,0 +1,6 @@
+# Python dependencies
+# No external dependencies needed for basic implementation
+
+# Optional for enhanced features:
+# flask (for REST API)
+# pytest (for advanced testing)
